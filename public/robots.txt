@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dazzling-souffle-ca3e6c.netlify.app/sitemap-index.xml
